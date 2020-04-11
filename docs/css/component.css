@@ -187,9 +187,10 @@
 
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 650px) {
 
 	.og-fullimg { display: none; }
+	.og-grid img { max-width:100%; height:auto; }
 	.og-details { float: none; width: 100%; }
 	
 }
