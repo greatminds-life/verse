@@ -187,7 +187,7 @@
 
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 500px) {
 
 	.og-fullimg { display: none; }
 	.og-details { float: none; width: 100%; }
