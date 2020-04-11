@@ -10,7 +10,7 @@
 	display: inline-block;
 	margin: 10px 5px 0 5px;
 	vertical-align: top;
-	height: 300px;
+	height: auto;
 }
 
 .og-grid li > a,
@@ -43,8 +43,9 @@
 	width: 100%;
 	margin-top: 10px;
 	text-align: left;
-	height: auto;
+	height: 0;
 	overflow: hidden;
+	vertical-align: middle;
 }
 
 .og-expander-inner {
@@ -190,7 +191,7 @@
 @media screen and (max-width: 650px) {
 
 	.og-fullimg { display: none; }
-	.og-grid img { max-width:100%; height:auto; }
+	.og-grid img { max-width:100%; height:100%; object-fit: contain;}
 	.og-details { float: none; width: 100%; }
 	
 }
