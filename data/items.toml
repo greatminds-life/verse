@@ -1,45 +1,150 @@
 [[items]]
 image = "images/full/E01.jpg"
 thumb = "images/thumbs/K01.jpg"
-title = "Hugrid Theme"
-description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 [[items]]
-image = "images/full/E01.jpg"
-thumb = "images/thumbs/K01.jpg"
-title = "Hugrid Theme"
-description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+image = "images/full/E02.jpg"
+thumb = "images/thumbs/K02.jpg"
 [[items]]
-image = "images/full/E01.jpg"
-thumb = "images/thumbs/K01.jpg"
-title = "Hugrid Theme"
-description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+image = "images/full/E03.jpg"
+thumb = "images/thumbs/K03.jpg"
 [[items]]
-image = "images/full/E01.jpg"
-thumb = "images/thumbs/K01.jpg"
-title = "Hugrid Theme"
-description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+image = "images/full/E04.jpg"
+thumb = "images/thumbs/K04.jpg"
 [[items]]
-image = "images/full/E01.jpg"
-thumb = "images/thumbs/K01.jpg"
-title = "Hugrid Theme"
-description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+image = "images/full/E05.jpg"
+thumb = "images/thumbs/K05.jpg"
 [[items]]
-image = "images/full/E01.jpg"
-thumb = "images/thumbs/K01.jpg"
-title = "Hugrid Theme"
-description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+image = "images/full/E06.jpg"
+thumb = "images/thumbs/K06.jpg"
 [[items]]
-image = "images/full/E01.jpg"
-thumb = "images/thumbs/K01.jpg"
-title = "Hugrid Theme"
-description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+image = "images/full/E07.jpg"
+thumb = "images/thumbs/K07.jpg"
 [[items]]
-image = "images/full/E01.jpg"
-thumb = "images/thumbs/K01.jpg"
-title = "Hugrid Theme"
-description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+image = "images/full/E08.jpg"
+thumb = "images/thumbs/K08.jpg"
 [[items]]
-image = "images/full/E01.jpg"
-thumb = "images/thumbs/K01.jpg"
-title = "Hugrid Theme"
-description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+image = "images/full/E09.jpg"
+thumb = "images/thumbs/K09.jpg"
+[[items]]
+image = "images/full/E10.jpg"
+thumb = "images/thumbs/K10.jpg"
+[[items]]
+image = "images/full/E11.jpg"
+thumb = "images/thumbs/K11.jpg"
+[[items]]
+image = "images/full/E12.jpg"
+thumb = "images/thumbs/K12.jpg"
+[[items]]
+image = "images/full/E13.jpg"
+thumb = "images/thumbs/K13.jpg"
+[[items]]
+image = "images/full/E14.jpg"
+thumb = "images/thumbs/K14.jpg"
+[[items]]
+image = "images/full/E15.jpg"
+thumb = "images/thumbs/K15.jpg"
+[[items]]
+image = "images/full/E16.jpg"
+thumb = "images/thumbs/K16.jpg"
+[[items]]
+image = "images/full/E17.jpg"
+thumb = "images/thumbs/K17.jpg"
+[[items]]
+image = "images/full/E18.jpg"
+thumb = "images/thumbs/K18.jpg"
+[[items]]
+image = "images/full/E19.jpg"
+thumb = "images/thumbs/K19.jpg"
+[[items]]
+image = "images/full/E20.jpg"
+thumb = "images/thumbs/K20.jpg"
+[[items]]
+image = "images/full/E21.jpg"
+thumb = "images/thumbs/K21.jpg"
+[[items]]
+image = "images/full/E22.jpg"
+thumb = "images/thumbs/K22.jpg"
+[[items]]
+image = "images/full/E23.jpg"
+thumb = "images/thumbs/K23.jpg"
+[[items]]
+image = "images/full/E24.jpg"
+thumb = "images/thumbs/K24.jpg"
+[[items]]
+image = "images/full/E25.jpg"
+thumb = "images/thumbs/K25.jpg"
+[[items]]
+image = "images/full/E26.jpg"
+thumb = "images/thumbs/K26.jpg"
+[[items]]
+image = "images/full/E27.jpg"
+thumb = "images/thumbs/K27.jpg"
+[[items]]
+image = "images/full/E28.jpg"
+thumb = "images/thumbs/K28.jpg"
+[[items]]
+image = "images/full/E29.jpg"
+thumb = "images/thumbs/K29.jpg"
+[[items]]
+image = "images/full/E30.jpg"
+thumb = "images/thumbs/K30.jpg"
+[[items]]
+image = "images/full/E31.jpg"
+thumb = "images/thumbs/K31.jpg"
+[[items]]
+image = "images/full/E32.jpg"
+thumb = "images/thumbs/K32.jpg"
+[[items]]
+image = "images/full/E33.jpg"
+thumb = "images/thumbs/K33.jpg"
+[[items]]
+image = "images/full/E34.jpg"
+thumb = "images/thumbs/K34.jpg"
+[[items]]
+image = "images/full/E35.jpg"
+thumb = "images/thumbs/K35.jpg"
+[[items]]
+image = "images/full/E36.jpg"
+thumb = "images/thumbs/K36.jpg"
+[[items]]
+image = "images/full/E37.jpg"
+thumb = "images/thumbs/K37.jpg"
+[[items]]
+image = "images/full/E38.jpg"
+thumb = "images/thumbs/K38.jpg"
+[[items]]
+image = "images/full/E39.jpg"
+thumb = "images/thumbs/K39.jpg"
+[[items]]
+image = "images/full/E40.jpg"
+thumb = "images/thumbs/K40.jpg"
+[[items]]
+image = "images/full/E41.jpg"
+thumb = "images/thumbs/K41.jpg"
+[[items]]
+image = "images/full/E42.jpg"
+thumb = "images/thumbs/K42.jpg"
+[[items]]
+image = "images/full/E43.jpg"
+thumb = "images/thumbs/K43.jpg"
+[[items]]
+image = "images/full/E44.jpg"
+thumb = "images/thumbs/K44.jpg"
+[[items]]
+image = "images/full/E45.jpg"
+thumb = "images/thumbs/K45.jpg"
+[[items]]
+image = "images/full/E46.jpg"
+thumb = "images/thumbs/K46.jpg"
+[[items]]
+image = "images/full/E47.jpg"
+thumb = "images/thumbs/K47.jpg"
+[[items]]
+image = "images/full/E48.jpg"
+thumb = "images/thumbs/K48.jpg"
+[[items]]
+image = "images/full/E49.jpg"
+thumb = "images/thumbs/K49.jpg"
+[[items]]
+image = "images/full/E50.jpg"
+thumb = "images/thumbs/K50.jpg"
